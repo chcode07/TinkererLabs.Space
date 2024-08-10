@@ -1,0 +1,51 @@
+.earthquake-report-card {
+    /* background-color: #060708; */
+    color: #ecf0f1;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+
+    margin-top: 200px;
+  }
+  
+  .earthquake-report-card .location {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  .earthquake-report-card .history h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #34495e;
+    padding-bottom: 10px;
+  }
+  
+  .earthquake-report-card .history ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .earthquake-report-card .history li {
+    background-color: #34495e;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .earthquake-report-card .history li p {
+    margin: 5px 0;
+  }
+  
+  .earthquake-report-card .no-history {
+    text-align: center;
+    margin-top: 20px;
+    font-style: italic;
+    color: #a7abad;
+  }
+  
+/* h1{
+    padding-right: 150px;
+} */
